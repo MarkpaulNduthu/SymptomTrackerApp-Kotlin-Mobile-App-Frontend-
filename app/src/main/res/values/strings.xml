@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MUM</string>
+    <string name="can_move">Can Move?</string>
+    <string name="pain_level_scale_1_10">Pain Level: Scale (1-10)</string>
+    <string name="anything_else_you_ve_felt_today_n_e_g_today_i_felt_a_slight_headache_in_the_morning">Anything else you\'ve felt today?\n e.g:Today I felt a slight headache in the morning</string>
+    <string name="account">Account</string>
+    <string name="view_graph_results">View graph results</string>
+    <string name="home">Home</string>
+    <string name="submit">Submit</string>
+</resources>
