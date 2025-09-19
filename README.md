@@ -33,10 +33,10 @@ The app helps patients record, monitor, and visualize their symptoms, supporting
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/symptom-tracker-frontend.git
+   git clone https://github.com/MarkpaulNduthu/symptom-tracker-frontend.git
 2. Open in Android Studio
 
-3. Set up environment variables (API base URL, etc.)
+3. Set up environment variables (API base URL)
 
 4. Build and run on emulator or physical device
 ### 📡 API Integration
