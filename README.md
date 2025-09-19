@@ -39,11 +39,11 @@ The app helps patients record, monitor, and visualize their symptoms, supporting
 3. Set up environment variables (API base URL, etc.)
 
 4. Build and run on emulator or physical device
-##📡 API Integration
+### 📡 API Integration
 
 The app communicates with the Symptom Tracker Backend.
 Make sure the backend is running and accessible via the configured API URL.
-##🛤 Roadmap
+### 🛤 Roadmap
 
  . Local symptom caching
 
@@ -52,6 +52,7 @@ Make sure the backend is running and accessible via the configured API URL.
  . AI-powered recommendations
 
  . Multi-language support
- ##🤝 Contributing
+ 
+ ### 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
