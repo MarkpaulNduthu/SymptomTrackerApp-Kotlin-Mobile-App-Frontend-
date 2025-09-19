@@ -33,7 +33,7 @@ The app helps patients record, monitor, and visualize their symptoms, supporting
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MarkpaulNduthu/symptom-tracker-frontend.git
+   git clone https://github.com/MarkpaulNduthu/SymptomTrackerApp-Kotlin-Mobile-App-Frontend-.git
 2. Open in Android Studio
 
 3. Set up environment variables (API base URL)
@@ -45,13 +45,13 @@ The app communicates with the Symptom Tracker Backend.
 Make sure the backend is running and accessible via the configured API URL.
 ### 🛤 Roadmap
 
- . Local symptom caching
+ - Local symptom caching
 
- . Push notifications for reminders
+ - Push notifications for reminders
 
- . AI-powered recommendations
+ - AI-powered recommendations
 
- . Multi-language support
+ - Multi-language support
  
  ### 🤝 Contributing
 
