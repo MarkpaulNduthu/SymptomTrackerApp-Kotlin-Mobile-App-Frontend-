@@ -1,0 +1,1 @@
+# SymptomTrackerApp-Kotlin-Mobile-App-Frontend-
